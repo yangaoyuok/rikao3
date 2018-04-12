@@ -46,3 +46,77 @@ body,
   font-size: 0.25rem;
   line-height: 1.05555556rem;
 }
+.wrap .bodyer dl {
+  height: 3.62962963rem;
+  border-bottom: 0.00925926rem solid #ccc;
+  display: flex;
+}
+.wrap .bodyer dl dt img {
+  width: 2.99074074rem;
+  height: 2.11111111rem;
+  padding-top: 0.2962963rem;
+  padding-left: 0.37962963rem;
+}
+.wrap .bodyer dl dd {
+  padding-top: 0.41666667rem;
+  padding-left: 0.24074074rem;
+}
+.wrap .bodyer dl dd h3 {
+  font-size: 0.30555556rem;
+  font-weight: 800;
+}
+.wrap .bodyer dl dd p {
+  font-size: 0.25925926rem;
+  padding-top: 0.23148148rem;
+  display: flex;
+  justify-content: space-between;
+}
+.wrap .bodyer dl dd p span:nth-child(2) {
+  border: 0.00925926rem solid #FF5F3A;
+  color: #FF5F3A;
+}
+.wrap .bodyer dl dd h5 {
+  padding-top: 0.27777778rem;
+  font-size: 0.30555556rem;
+  font-weight: 800;
+  border-bottom: 0.00925926rem solid #ccc;
+  color: #FF5F3A;
+  padding-bottom: 0.23148148rem;
+}
+.wrap .bodyer dl dd h5 span {
+  font-size: 0.25925926rem;
+  font-weight: 400;
+  padding-left: 0.18518519rem;
+}
+.wrap .bodyer dl dd h4 {
+  font-size: 0.25rem;
+  padding-top: 0.18518519rem;
+}
+.wrap .bodyer dl dd h4 img {
+  width: 1.07407407rem;
+  height: 0.35185185rem;
+  padding-right: 0.18518519rem;
+}
+.wrap .bodyer dl dd h4 span {
+  color: #FF5F3A;
+}
+.wrap .footer {
+  height: 1.13888889rem;
+}
+.wrap .footer ul {
+  padding-top: 0.16666667rem;
+}
+.wrap .footer ul li {
+  width: 25%;
+  float: left;
+  font-size: 0.24074074rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: #5F6670;
+}
+.wrap .footer ul li img {
+  width: 0.5rem;
+  height: 0.52777778rem;
+  padding-left: 0.97222222rem;
+}
